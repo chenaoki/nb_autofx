@@ -3,3 +3,4 @@
 *.ipynb
 docker-compose.yml
 __pycache__*
+log/*
